@@ -1,0 +1,13 @@
+body {
+    font-family: 'Open Sans', serif;
+    color: #868e96;
+}
+
+.aboutmebg{
+    background-color: #008000;
+    height: 100%;
+    color: #000;
+}
+#aboutme{
+    margin-top: 100px;
+}
