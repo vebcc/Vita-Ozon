@@ -24,20 +24,28 @@
                                 <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="images/itsme.jpg" alt="">
                             </span>
                         </a>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet libero nec justo aliquet accumsan. Fusce imperdiet suscipit lobortis. Cras malesuada erat risus, at iaculis velit aliquet eget. Duis a nibh in justo interdum feugiat vitae a mauris. Donec finibus facilisis erat, at auctor felis imperdiet viverra. Pellentesque vel enim mollis, semper justo nec, volutpat neque. Nullam et ullamcorper enim, eget interdum nisl. Cras vel iaculis dolor. Mauris interdum quam metus, nec venenatis dui sagittis vel.
+                        <span class="aboutcent">
+                           <p>Alicja Olejnik</p>
+                           <p>Telefon: 123456789</p>
+                            <p>Email: al.ol@onet.pl</p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet libero nec justo aliquet accumsan. Fusce imperdiet suscipit lobortis. Cras malesuada erat risus, at iaculis velit aliquet eget. Duis a nibh in justo interdum feugiat vitae a mauris. Donec finibus facilisis erat, at auctor felis imperdiet viverra. Pellentesque vel enim mollis, semper justo nec,
+                        </span>
+
                     </div>
                 </div>
-                <div class="col-md-10">
-                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                        <a class="navbar-brand" href="#">Vita-Ozon</a>
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-                        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                            <div class="navbar-nav">
-                                <a class="nav-item nav-link active" href="?page=home">Home <span class="sr-only">(current)</span></a>
-                                <a class="nav-item nav-link" href="?page=oferta">Oferta</a>
-                                <a class="nav-item nav-link" href="?page=contact">Kontakt</a>
-                            </div>
-                        </div>
-                    </nav>
+                <div class="col-md-10 row main">
+                   <div class="col-md-12">
+                       <nav class="navbar navbar-fixed-top  navbar-expand-lg navbar-light bg-light">
+                           <a class="navbar-brand" href="#">Vita-Ozon</a>
+                           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                               <span class="navbar-toggler-icon"></span>
+                           </button>
+                           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                               <div class="navbar-nav">
+                                   <a class="nav-item nav-link active" href="?page=home">Home <span class="sr-only">(current)</span></a>
+                                   <a class="nav-item nav-link" href="?page=oferta">Oferta</a>
+                                   <a class="nav-item nav-link" href="?page=contact">Kontakt</a>
+                               </div>
+                           </div>
+                       </nav>
+                    </div>

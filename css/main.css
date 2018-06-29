@@ -4,10 +4,58 @@ body {
 }
 
 .aboutmebg{
-    background-color: #008000;
+    background-color: #48a74a;
     height: 100%;
     color: #000;
 }
 #aboutme{
     margin-top: 100px;
+}
+.oferta{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 0px;
+}
+.home{
+    margin-top: 100px;
+}
+.ofertaico{
+    width: 80%;
+}
+
+body{
+    overflow: hidden;
+}
+.content{
+    overflow-y: scroll;
+    margin-top: 0px;
+    height: 94%;
+    margin-right: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+nav{
+    margin-left: -27px;
+
+}
+
+.main{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 15px;
+
+}
+
+.oferta:nth-child(even) {
+    background: white;
+}
+
+.oferta:nth-child(odd) {
+    background: #E0E0E0;
+}
+#page > div > div > div > div > div > div > img{
+    margin-top: 15%;
+}
+.aboutcent{
+    text-align: center;
 }
