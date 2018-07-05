@@ -11,6 +11,13 @@
         <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
         <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+
+
+        <link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Orbitron:900" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+
         <link href="css/main.css" rel="stylesheet">
     </head>
     <body id="page">
@@ -26,25 +33,31 @@
                         </a>
                         <span class="aboutcent">
                            <p>Alicja Olejnik</p>
-                           <p>Telefon: 123456789</p>
-                            <p>Email: al.ol@onet.pl</p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet libero nec justo aliquet accumsan. Fusce imperdiet suscipit lobortis. Cras malesuada erat risus, at iaculis velit aliquet eget. Duis a nibh in justo interdum feugiat vitae a mauris. Donec finibus facilisis erat, at auctor felis imperdiet viverra. Pellentesque vel enim mollis, semper justo nec,
+                            <p>Telefon: <a href="tel:+48503077434">+48 503 077 434</a></p>
+                            <p>Email: <a href="mailto:alicjaolejnik4@gmail.com">alicjaolejnik4@gmail.com</a></p>
+                            <p class="aboutme">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet libero nec justo aliquet accumsan. Fusce imperdiet suscipit lobortis. Cras malesuada erat risus, at iaculis velit aliquet eget. Duis a nibh in justo interdum feugiat vitae a mauris. Donec finibus facilisis erat, at auctor felis imperdiet viverra. Pellentesque vel enim mollis, semper justo nec.
+                            </p>
                         </span>
 
                     </div>
                 </div>
                 <div class="col-md-10 row main">
                    <div class="col-md-12">
-                       <nav class="navbar navbar-fixed-top  navbar-expand-lg navbar-light bg-light">
-                           <a class="navbar-brand" href="#">Vita-Ozon</a>
+                       <nav class="navbar navbar-fixed-top  navbar-expand-lg navbar-light">
+                           <a class="logov navbar-brand" href="?page=home">
+                                <img src="images/logovita-ozon.png" class="logo" alt="">
+                               <span class="title">Vita-Ozon</span>
+                           </a>
+
                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                                <span class="navbar-toggler-icon"></span>
                            </button>
                            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                                <div class="navbar-nav">
-                                   <a class="nav-item nav-link active" href="?page=home">Home <span class="sr-only">(current)</span></a>
-                                   <a class="nav-item nav-link" href="?page=oferta">Oferta</a>
-                                   <a class="nav-item nav-link" href="?page=contact">Kontakt</a>
+                                   <a class="nav-item nav-link <?php if($page=="home"){echo "active";}?>" href="?page=home">Home <span class="sr-only">(current)</span></a>
+                                   <a class="nav-item nav-link <?php if($page=="oferta"){echo "active";}?>" href="?page=oferta">Oferta</a>
+                                   <a class="nav-item nav-link <?php if($page=="contact"){echo "active";}?>" href="?page=contact">Kontakt</a>
                                </div>
                            </div>
                        </nav>

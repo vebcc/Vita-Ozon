@@ -1,4 +1,113 @@
-<div class=" col-md-12 content row">
+<div class="col-md-12 content row">
+    <div class="row col-md-12 oferta">
+        <div class="col-md-2">
+            <img src="images/ofertaico/transfusion.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+        </div>
+        <div class="col-md-10">
+            <h3>Wlew z witaminy C</h3>
+            <span>Dożylne wlewy z witaminy C stały się szansą dla pacjentów chorych na raka.
+
+                <ul>
+                    <li>7.5g</li>
+                    <li>15g</li>
+                    <li>25g</li>
+                </ul></span>
+        </div>
+    </div>
+
+    <div id="ozonoterapia" class="row col-md-12 oferta">
+        <div class="col-md-2">
+            <img src="images/ofertaico/atom.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+        </div>
+        <div class="col-md-10">
+
+           <div id="ozonoterapiashort">
+               <h3>Ozonoterapia</h3>
+               <ul>
+                   <li>Ozon dla chorych dermatologicznie</li>
+                   <li>Ozonoterapia w leczeniu ran</li>
+                   <li>Ozon dla chorych onkologicznie</li>
+                   <li>Ozon dla sportowców</li>
+
+               </ul>
+                      <h5> Zastosowanie ozonu w medycynie opiera się na dwóch zasadniczych mechanizmach:</h5>
+                       <p><b>1. Bezpośrednie, miejscowe działanie ozonu stosowane jako środek dezynfekcyjny</b> (właściwości bakterjobójcze, grzybobójcze, antywirusowe są wykorzystywane w celu oczyszczania ran, wzmocnienia przeciwbakteryjnej ochrony organizmu oraz akywacji układu odpornościowego)</p>
+
+                       <p><b>2. Działanie systemowe spowodowane przez niskie stężenie nadtlenków ozonu </b>(aktywacja metabolizmu erytrocytów, lepsze właściwości reologiczne krwi, aktywacja metabolizmu energetycznego komórki)</p>
+
+                   <a href="#ozonoterapia" onclick="showmemore('ozonoterapia')">Czytaj więcej...</a>
+            </div>
+            <div id="ozonoterapiamore" class="hidden">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h4><b>Ozonoterapia</b> w leczeniu ran</h4>
+                        <h5>Rana jest często następstwem urazu lub zaburzeń ukrwienia z powodu choroby przewlekłej.</h5>
+                        <span>
+                            <ul>
+                                <li>Zabieg <b>Autohemotransfuzji</b> (ozonowanie krwi)</li>
+                                <li>Zabieg ozonowania kroplówek, polega na odpowiednim ozonowaniu np. soli fizjologicznej i podaniu jej w postaci kroplówki dożylnie</li>
+                                <li>Zabieg <b>Kąpiele ozonowe</b>, polega na nałożeniu na chorą kończynę szczelnego worka foliowego, wpuszczeniu do niego mieszaniny tlenowo-ozonowej w odpowiednich stężeniach</li>
+                                <li>Zabieg <b>podawania ozonu do jam ciała</b>, polega na wstrzykiwaniu ozonu o odpowiednio dobranym stężeniu do np. przetok</li>
+                            </ul>
+                        </span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <h4><b>Ozon</b> dla chorych onkologicznie</h4>
+                        <h5>Ozon pomaga minimalizować efekty zatrucia radiacyjnego, takie jak:</h5>
+                        <span>
+                            <ul>
+                                <li>zmienszone libido</li>
+                                <li>brak miesiączki</li>
+                                <li>anemia, leukopenia</li>
+                                <li>raki skóry</li>
+                                <li>kostniakomięsak (nowotwór ukłądu kostnego)</li>
+                            </ul>
+
+                        </span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <h4><b>Ozon</b> dla chorych dermatologicznie</h4>
+                        <h5>Ozon jest wskazany w leczeniu dermatologicznych zaburzeń, takich jak:</h5>
+                        <span>
+                            <ul>
+                                <li>opryszczka pospolita i półpasiec, brodawki oraz mięczak zakaźny, liczajec</li>
+                                <li>zakażeniu skóry wywołane przez gronkowce, paciorkowce oraz inne bakterie</li>
+                                <li>róża - choroba wywołana przez paciorkowce</li>
+                                <li>folliiculitis(zapalenie mieszków włosowych)</li>
+                                <li> czyraki, czyraki mnogie, grzybica skóry, bielica, świerzb, wszawica, skórna larwa migrans</li>
+                                <li> trądzik, trądzik rózowaty, łuszczyca, rumień, świą i pieczenie skóry</li>
+                                <li> rybia łuska pospolita, rogowacenie, rybia łuska blaszkowata, alergia kontaktowa</li>
+                                <li> zapalenie skóry spowodowane zastojem żylnym</li>
+                            </ul>
+
+                        </span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <h4><b>Ozon</b> dla sportowców</h4>
+                        <h5>Naturalny doping, który nie szkodzi!</h5>
+                        <p>Działanie ozonu na organizm <b>sportowca</b> polega na:</p>
+                        <span>
+                            <ul>
+                                <li><b>Znacznym dotlenieniu tkanek obwodowych</b> - zwłaszcza mózgu, serca, mięśni szkieletowych i wszystkich narządów ciała</li>
+                                <li><b>czyszczeniu tkanek i naczyń</b> ze złogów cholesterolowych, poprzez przyśpieszenie metabolizmu, co ma znaczenie przeciwmiażdżycowe i ochronne na układ krwionośny</li>
+                                <li><b>poprawienie krążenia obwodowego</b></li>
+                                <li><b>poprawienie wydajności ogólnej całego organizmu</b> (u ludzi starszych i u młodych sportowców również)</li>
+                                <li> znacznej <b>poprawie sprawności i wydolności seksualnej u mężczyzn</b></li>
+                                <li><b> wspomaganiu walce z nadwagą</b></li>
+                            </ul>
+
+                        </span>
+                    </div>
+                </div>
+                <a href="#ozonoterapia" onclick="showmemore('ozonoterapia', 1)">Czytaj mniej...</a>
+            </div>
+        </div>
+
+    </div>
+
    <div class="row col-md-12 oferta">
        <div class="col-md-2">
            <img src="images/ofertaico/syringe.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
@@ -70,7 +179,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/band.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/band-aid.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Leczenie ran przewlekłych</h3>
@@ -89,7 +198,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/syringe2.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Założenie wenflonu</h3>
@@ -99,17 +208,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
-        </div>
-        <div class="col-md-10">
-            <h3>Żywienie pozajelitowe</h3>
-            <span>Nasza oferta obejmuje podłączanie oraz przygotowanie (w domu pacjenta) żywienia pozajelitowego. Usługa obejmuje również ocenę miejsca wkłucia cewnika naczyniowego pod względem infekcji oraz zmianę opatrunku. </span>
-        </div>
-    </div>
-
-    <div class="row col-md-12 oferta">
-        <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/smoking.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Opieka nad chorym wentylowanym mechanicznie
@@ -133,7 +232,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/medical.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Pielęgnacja Peg'a</h3>
@@ -143,7 +242,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/medical.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Pielęgnacja stomii</h3>
@@ -153,7 +252,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/medical2.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Lewatywa</h3>
@@ -163,7 +262,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/condom.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Bańki</h3>
@@ -173,7 +272,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/nurse.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Dyżury pielęgniarskie</h3>
@@ -183,7 +282,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/bed2.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Domowa opieka długoterminowa i paliatywna</h3>
@@ -193,7 +292,7 @@
 
     <div class="row col-md-12 oferta">
         <div class="col-md-2">
-            <img src="images/ofertaico/blood.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+            <img src="images/ofertaico/bed.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
         </div>
         <div class="col-md-10">
             <h3>Toaleta chorych leżących</h3>
@@ -201,6 +300,37 @@
         </div>
     </div>
 
+    <div class="row col-md-12 oferta">
+        <div class="col-md-2">
+            <img src="images/ofertaico/book.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+        </div>
+        <div class="col-md-10">
+            <h3>Edukacja z zakresu pielęgnacji chorego</h3>
+            <span>Nasza firma oferuje poradnictwo w zakresie opieki i pielęgnacji pacjenta niezależnie od jego stanu. Pielęgniarka przyjedzie i nauczy rodzinę/bliskich chorego prawidłowych zachowań, które z pewnością ułatwią codzienne funkcjonowanie i podniosą poziom opieki.</span>
+        </div>
+    </div>
+
+    <div class="row col-md-12 oferta">
+        <div class="col-md-2">
+            <img src="images/ofertaico/medical.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+        </div>
+        <div class="col-md-10">
+            <h3>Pielęgniarka środowiskowa</h3>
+            <span>Całodobowe świadczenia zdrowotne pielęgniarki środowiskowej.</span>
+        </div>
+    </div>
+
+    <div class="row col-md-12 oferta">
+        <div class="col-md-2">
+            <img src="images/ofertaico/medical2.png" class="img-fluid ofertaico" alt="zastrzyki-w-domu">
+        </div>
+        <div class="col-md-10">
+            <h3>Inne</h3>
+            <span>Jeżeli nie znalazłeś interesującego Ciebie zabiegu zadzwoń. </span>
+        </div>
+    </div>
+
+    <?php require("include/footervie.php"); ?>
 
 
 </div>
