@@ -2,14 +2,20 @@
     <div class="row home col-md-12">
         <div class="homeinfomain col-md-8">
             <div class="homeinfotag hometag">
-                <h2>Pielęgniarka gdzies, gdzies, gdzies</h2>
+                <h2>Pielęgniarka Bąków i okolice do 25km</h2>
             </div>
             <div class="homeinfo">
-                <span>
-                    Pogotowie Pielęgniarskie świadczy usługi pielęgniarskie i opiekuńcze w domu pacjenta oraz zapewnia obsługę medyczną w zakładach pracy i przedszkolach na terenie Trójmiasta i jego okolic. Oferujemy Państwu jednorazowe wizyty domowe oraz opiekę długoterminową i paliatywną w warunkach domowych. Pielęgniarka przyjedzie pod wskazany adres w Gdańsku, Gdyni lub Sopocie w najbardziej dogodnym dla Pacjenta terminie.
-                    Dyżurujemy 24 godziny na dobę, przez 365 dni w roku - także w święta i dni wolne od pracy. Na wizytę domową dojeżdżamy najczęściej w ciągu godziny od zgłoszenia.
-                    Nasz personel stanowią pielęgniarki, które wciąż pogłębiają swoje doświadczenie zawodowe pracując jednocześnie w Trójmiejskich szpitalach, dlatego możemy zagwarantować najwyższą jakość świadczonych przez nas usług pielęgniarskich. Naszymi pacjentami są osoby dorosłe, seniorzy i dzieci. Dzięki nam nie muszą już Państwo wychodzić z domu ani stać w kolejkach żeby mieć dostęp do specjalistycznych usług medycznych.
-                </span>
+               <span>
+                   <br>
+                   <p>Usługi pielęgniarskie i opiekuńcze w domu pacjenta oferuje państwu jednorazowe wizyty domowe oraz opiekę długoterminową i paliatywną w warunkach domowych.</p>
+                   <p>Świadczę dyżury 24 godziny na dobę po wcześniejszym uzgodnieniu z pacjentem, także w święta i dni wolne od pracy.</p>
+                   <p>Na wizytę domową dojeżdżamy najczęściej w ciągu godziny od zgłoszenia.</p>
+                   <p>Jestem pielęgniarką która wciąż pogłebia swoje doświadczenie zawodowe pracując jednocześnie w szpitalach.</p>
+                   <p>Gwarantuję państwu najwyższą jakość świadczonych przezemnie usług pielęgniarskich.</p>
+                   <p>Moimi pacjentami są zarówno osoby dorosłe, senioży jak i dzieci.</p>
+                   <p>Dzięki mnie nie musza państwo już wychodzić z domu, ani stać w kolejkach żeby mieć dostęp do specjalistycznych usług medycznych.</p>
+
+               </span>
             </div>
         </div>
         <div class="col-md-4">

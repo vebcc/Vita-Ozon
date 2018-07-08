@@ -3,15 +3,13 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="Vita-Ozon">
+        <meta name="robots" content="all">
         <meta name="author" content="Alicja Olejnik">
+        <meta name="keywords" content="alicja, olejnik, uslugi, pielegniarskie, pielęgniarskie, usługi pielęgniarskie, uslugi pielegniarskie, alicja olejnik, pielegniarka, dowoz, dojazd, promocje, szpital, pomoc, praca, poswiecenie, bakow, bąków, witamina c, c, ozonoterapia, ozon, zastrzyki, pobieranie krwi, kroplowka, kroplowki, zdjemowanie szwow, sondy zoladkowe, cewnikowanie, leczenie ran, zakladanie wenflonu, opieka domowa, pielegnacja stomii, lewatywa, stawianie baniek, toaleta, toaleta chorego, pielegnacja pega, peg'a">
         <title>Vita-Ozon Alicja Olejnik</title>
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
-        <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-        <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
-        <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
-
 
         <link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Orbitron:900" rel="stylesheet">
@@ -36,7 +34,7 @@
                             <p>Telefon: <a href="tel:+48503077434">+48 503 077 434</a></p>
                             <p>Email: <a href="mailto:alicjaolejnik4@gmail.com">alicjaolejnik4@gmail.com</a></p>
                             <p class="aboutme">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet libero nec justo aliquet accumsan. Fusce imperdiet suscipit lobortis. Cras malesuada erat risus, at iaculis velit aliquet eget. Duis a nibh in justo interdum feugiat vitae a mauris. Donec finibus facilisis erat, at auctor felis imperdiet viverra. Pellentesque vel enim mollis, semper justo nec.
+                                Jestem pielęgniarką poszerzającą swoje doświadczenie zawodowe, pracuję jednocześnie w szpitalach
                             </p>
                         </span>
 
