@@ -34,7 +34,7 @@
     </div>
     <div class="col-md-12 row" id="footercontact">
         <div class="col-md-12 googlemap">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3159.2320157462896!2d18.70818651604872!3d49.89462157940254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716abe4975ce4a9%3A0x747122032408480f!2zU3plcm9rYSAxMCwgQsSFa8Ozdw!5e1!3m2!1spl!2spl!4v1530958396059" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10280.803235214484!2d18.7099037!3d49.8950332!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdb7080f667caabdd!2sVita-Ozon+Alicja+Olejnik!5e0!3m2!1spl!2spl!4v1531058849765" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
         <?php require("include/footervie.php"); ?>
     </div>
