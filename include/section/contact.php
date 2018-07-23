@@ -1,4 +1,4 @@
-<div class="content row col-md-12">
+<div class="content contcont row col-md-12">
     <div class="contact col-md-12">
 
             <h1 class="firmname">Vita-Ozon Alicja Olejnik</h1>

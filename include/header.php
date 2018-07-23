@@ -11,11 +11,11 @@
 		</script>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Vita-Ozon">
+        <meta name="description" content="Vita-Ozon Alicja Olejnik Usługi pielęgniarskie, pielęgniarka na dojazd w okolicy bąków, jastrzębie">
         <meta name="robots" content="all">
         <meta name="author" content="Alicja Olejnik">
-        <meta name="keywords" content="alicja, olejnik, uslugi, pielegniarskie, pielęgniarskie, usługi pielęgniarskie, uslugi pielegniarskie, alicja olejnik, pielegniarka, dowoz, dojazd, promocje, szpital, pomoc, praca, poswiecenie, bakow, bąków, witamina c, c, ozonoterapia, ozon, zastrzyki, pobieranie krwi, kroplowka, kroplowki, zdjemowanie szwow, sondy zoladkowe, cewnikowanie, leczenie ran, zakladanie wenflonu, opieka domowa, pielegnacja stomii, lewatywa, stawianie baniek, toaleta, toaleta chorego, pielegnacja pega, peg'a, pielęgniarka">
-        <title>Vita-Ozon Alicja Olejnik - usługi pielęgniarskie, pielęgniarka na dojazd</title>
+        <meta name="keywords" content="alicja, olejnik, uslugi, pielegniarskie, pielęgniarskie, usługi pielęgniarskie, uslugi pielegniarskie, alicja olejnik, pielegniarka, dowoz, dojazd, promocje, szpital, pomoc, praca, poswiecenie, bakow, bąków, witamina c, c, ozonoterapia, ozon, zastrzyki, pobieranie krwi, kroplowka, kroplowki, zdjemowanie szwow, sondy zoladkowe, cewnikowanie, leczenie ran, zakladanie wenflonu, opieka domowa, pielegnacja stomii, lewatywa, stawianie baniek, toaleta, toaleta chorego, pielegnacja pega, peg'a, pielęgniarka, bakow, bąków, bąków usługi pielęgniarskie, jastrzebie, jastrzebie zdroj, jastrzębie zdrój, pielgrzymowice, zebrzydowice, marklowice, rychułd, pruchna, rudnik, kiczyce, ochaby, skoczkow, skoczków, dębowiec, wilamowice, pogórze, grodziec, bielowicko, kowale, łazy, zbytków pawłowice, pniówek, krzyżowice, warszowice, gogołowa, połomia mszana, świętoszówka, łazy, roztopice, pierściec, kiczyce, cybie, zabrzeg, zarzecze, łąka, brzeźce, kostkowice">
+        <title>Vita-Ozon Alicja Olejnik - usługi pielęgniarskie, pielęgniarka na dojazd, Bąków i okolice</title>
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -43,7 +43,8 @@
                             <p>Telefon: <a href="tel:+48503077434">+48 503 077 434</a></p>
                             <p>Email: <a href="mailto:alicjaolejnik4@gmail.com">alicjaolejnik4@gmail.com</a></p>
                             <p class="aboutme">
-                                Jestem pielęgniarką poszerzającą swoje doświadczenie zawodowe, pracuję jednocześnie w szpitalach
+                                Jestem pielęgniarką która wciąż pogłebia swoje doświadczenie zawodowe pracując jednocześnie w szpitalach.
+                                Świadczę usługi pielęgniarskie <b>Vita Ozon</b> by pomagać ludziom i umilić im czas spędzony w chorobie.
                             </p>
                         </span>
 
