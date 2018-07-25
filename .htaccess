@@ -1,0 +1,6 @@
+RewriteEngine On
+Options -Indexes
+RewriteRule ^kontakt ?page=contact [L]
+RewriteRule ^oferta ?page=oferta [L]
+RewriteRule ^home ?page=home [L]
+RewriteRule ^polityka ?page=polityka [L]

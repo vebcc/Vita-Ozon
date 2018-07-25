@@ -30,7 +30,7 @@
 
             </table>
             <br><br>
-            <h5>Obszar działania: Bąków i okolice do 25km</h5>
+            <h5 class="obszard">Obszar działania: Bąków i okolice do 25km</h5>
     </div>
     <div class="col-md-12 row" id="footercontact">
         <div class="col-md-12 googlemap">

@@ -15,7 +15,7 @@
                         <p>Gwarantuję państwu najwyższą jakość świadczonych przezemnie usług pielęgniarskich.</p>
                         <p>Moimi pacjentami są zarówno osoby dorosłe, senioży jak i dzieci.</p>
                         <p>Dzięki mnie nie musza państwo już wychodzić z domu, ani stać w kolejkach żeby mieć dostęp do specjalistycznych usług medycznych.</p>
-
+                        <a href="kontakt"><button class="btn-contact btn btn-success">Kontakt</button></a>
                     </span>
                 </div>
             </div>
@@ -42,7 +42,9 @@
                         <li>Toaleta chorego</li>
                         <li>Pielęgnacja Peg'a</li>
                     </ul>
-                    <a href="?page=oferta"><button class="btn btn-success">Zobacz pełną ofertę</button></a>
+                    <div class="full">
+                        <a href="oferta"><button class=" btn-oferta btn btn-success">Zobacz pełną ofertę</button></a>
+                    </div>
                 </div>
             </div>
         </div>

@@ -16,7 +16,9 @@
         <meta name="author" content="Alicja Olejnik">
         <meta name="keywords" content="alicja, olejnik, uslugi, pielegniarskie, pielęgniarskie, usługi pielęgniarskie, uslugi pielegniarskie, alicja olejnik, pielegniarka, dowoz, dojazd, promocje, szpital, pomoc, praca, poswiecenie, bakow, bąków, witamina c, c, ozonoterapia, ozon, zastrzyki, pobieranie krwi, kroplowka, kroplowki, zdjemowanie szwow, sondy zoladkowe, cewnikowanie, leczenie ran, zakladanie wenflonu, opieka domowa, pielegnacja stomii, lewatywa, stawianie baniek, toaleta, toaleta chorego, pielegnacja pega, peg'a, pielęgniarka, bakow, bąków, bąków usługi pielęgniarskie, jastrzebie, jastrzebie zdroj, jastrzębie zdrój, pielgrzymowice, zebrzydowice, marklowice, rychułd, pruchna, rudnik, kiczyce, ochaby, skoczkow, skoczków, dębowiec, wilamowice, pogórze, grodziec, bielowicko, kowale, łazy, zbytków pawłowice, pniówek, krzyżowice, warszowice, gogołowa, połomia mszana, świętoszówka, łazy, roztopice, pierściec, kiczyce, cybie, zabrzeg, zarzecze, łąka, brzeźce, kostkowice">
         <title>Vita-Ozon Alicja Olejnik - usługi pielęgniarskie, pielęgniarka na dojazd, Bąków i okolice</title>
+        <link rel="Icon" href="images/favicon.ico">
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="vendor/bootstrap/css/glyph.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
 
@@ -39,9 +41,10 @@
                             </span>
                         </a>
                         <span class="aboutcent">
-                           <p>Alicja Olejnik</p>
-                            <p>Telefon: <a href="tel:+48503077434">+48 503 077 434</a></p>
-                            <p>Email: <a href="mailto:alicjaolejnik4@gmail.com">alicjaolejnik4@gmail.com</a></p>
+                           <p class="mainname">Alicja Olejnik</p>
+                            <p> <a href="tel:+48503077434"><span class="glyphicon glyphicon-earphone"></span> +48 503 077 434</a></p>
+                            <p><a href="mailto:alicjaolejnik4@gmail.com"><span class="glyphicon glyphicon-comment"></span> alicjaolejnik4@gmail.com</a></p>
+                            <p><a href="https://www.google.pl/maps/dir/''/vita+ozon/data=!4m5!4m4!1m0!1m2!1m1!1s0x4716ab2b3ac035e7:0xdb7080f667caabdd?sa=X&amp;ved=0ahUKEwjU6OOi_7jcAhUGFCwKHbosDBIQ9RcImQEwCw"><span class="glyphicon glyphicon-globe"></span> Wyznacz trasę</a></p>
                             <p class="aboutme">
                                 Jestem pielęgniarką która wciąż pogłebia swoje doświadczenie zawodowe pracując jednocześnie w szpitalach.
                                 Świadczę usługi pielęgniarskie <b>Vita Ozon</b> by pomagać ludziom i umilić im czas spędzony w chorobie.
@@ -53,7 +56,7 @@
                 <div class="col-md-10 row main">
                    <div class="col-md-12">
                        <nav class="navbar navbar-fixed-top  navbar-expand-lg navbar-light">
-                           <a class="logov navbar-brand" href="?page=home">
+                           <a class="logov navbar-brand" href="./">
                                 <img src="images/logovita-ozon.png" class="logo" alt="">
                                <span class="title">Vita-Ozon</span>
                            </a>
@@ -63,9 +66,14 @@
                            </button>
                            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                                <div class="navbar-nav">
-                                   <a class="nav-item nav-link <?php if($page=="home"){echo "active";}?>" href="?page=home">Home <span class="sr-only">(current)</span></a>
-                                   <a class="nav-item nav-link <?php if($page=="oferta"){echo "active";}?>" href="?page=oferta">Oferta</a>
-                                   <a class="nav-item nav-link <?php if($page=="contact"){echo "active";}?>" href="?page=contact">Kontakt</a>
+                                   <a class="nav-item nav-link <?php if($page=="home"){echo "active";}?>" href="./">Home</a>
+                                   <a class="nav-item nav-link <?php if($page=="oferta"){echo "active";}?>" href="oferta">Oferta</a>
+                                   <a class="nav-item nav-link <?php if($page=="contact"){echo "active";}?>" href="kontakt">Kontakt</a>
+                               </div>
+                               <div id="telmen">
+                                   <p><a href="tel:+48503077434"><span class="glyphicon glyphicon-earphone"></span> +48 503 077 434</a></p>
+                                   <p><a href="https://www.google.pl/maps/dir/''/vita+ozon/data=!4m5!4m4!1m0!1m2!1m1!1s0x4716ab2b3ac035e7:0xdb7080f667caabdd?sa=X&amp;ved=0ahUKEwjU6OOi_7jcAhUGFCwKHbosDBIQ9RcImQEwCw"><span class="glyphicon glyphicon-globe"></span> Wyznacz trasę</a></p>
+
                                </div>
                            </div>
                        </nav>
